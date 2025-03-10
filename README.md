@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 A React-based weather application that utilizes the OpenWeatherMap API to display real-time weather conditions and forecasts for searched cities. The app includes interactive charts and animations for an enhanced user experience.
-🔗 **Live Site**: [Weather Explorer Live Site](https://weatherexplorer.vercel.app) 
+🔗 **Live Site**: [Weather Explorer Live Site](https://weather-map-gray.vercel.app/) 
 
 # ✨ Features
 ✅ Search for weather data by city name
@@ -14,7 +14,7 @@ ReactJs,Axios, Chart.js, react-chartjs-2, Framer Motion, TailwindCSS
 🚀 Installation
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/SahariorRidoy/WeatherMap
 cd blood-bank
 ```
 ### 2️⃣ Install Dependencies
